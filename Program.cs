@@ -6,6 +6,8 @@ namespace TPFinal_Lange
     {
         static void Main(string[] args)
         {
+            //TP FINAL CURSO LOGICA PROGRAMACION CON C#
+
             // Hacer un programa que permita ingresar una lista de números que corta cuando se ingresa
             // un cero. A partir de dichos datos informar:
 
